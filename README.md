@@ -15,5 +15,5 @@ If you want to reach out or collaborate, you can text me on [Telegram](https://t
 **Fun Facts:**
 
 - I make witch house beats in ableton
-- I worked as a video editor for 2 years (Premiere Pro, After Effects, and Vegas Pro)
+- I worked as a video editor for 2 years
 - Hobbies: Design, music production, gym
