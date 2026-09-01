@@ -4,8 +4,6 @@ I'm Peter, an iOS developer combining clean code with thoughtful UI/UX design.
 
 I enjoy bridging the gap between declarative and imperative UI frameworks.
 
-If an interface concept pops into my head, chances are I'll code it in Swift and make it work seamlessly.
-
 My core tech stack includes Swift, SwiftUI, UIKit + CoreAnimation, Foundation and Combine.
 
 My technical focus covers networking, multithreading (GCD, async/await), and structuring applications using MVC and MVVM architectures while adhering to SOLID principles.
