@@ -1,16 +1,21 @@
-## Hi there 👋
+**Hey there!🐳**
 
-<!--
-**nohoemood/nohoemood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Peter, an iOS developer combining clean code with thoughtful UI/UX design.
 
-Here are some ideas to get you started:
+I enjoy bridging the gap between declarative and imperative UI frameworks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If an interface concept pops into my head, chances are I'll code it in Swift and make it work seamlessly.
+
+My core tech stack includes Swift, SwiftUI, UIKit + CoreAnimation, Foundation and Combine.
+
+My technical focus covers networking, multithreading (GCD, async/await), and structuring applications using MVC and MVVM architectures while adhering to SOLID principles.
+
+My go-to tools for development and design are Xcode, Postman, and Figma. 
+
+If you want to reach out or collaborate, you can text me on [Telegram](https://t.me/nohoemood) or via email at basicconnectiontome@gmail.com.
+
+**Fun Facts:**
+
+- I make witch house beats in ableton
+- I worked as a video editor for 2 years (Premiere Pro, After Effects, and Vegas Pro)
+- Hobbies: Design, music production, gym
