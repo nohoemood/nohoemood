@@ -1,4 +1,4 @@
-**Hey there!🐳**
+**Hey there! 🐳**
 
 I'm Peter, an iOS developer combining clean code with thoughtful UI/UX design.
 
