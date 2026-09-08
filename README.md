@@ -8,7 +8,7 @@ My core tech stack includes **Swift**, **SwiftUI**, **UIKit** + **CoreAnimation*
 
 My technical focus covers networking, multithreading (GCD, async/await), and structuring applications using MVC and MVVM architectures while adhering to SOLID principles.
 
-My go-to tools for development and design are **Xcode**, **Postman**, and **Figma**. 
+My go-to tools for development and design are **Xcode**, **Postman**/**RepidAPI**, and **Figma**. 
 
 If you want to reach out or collaborate, you can text me on **[Telegram](https://t.me/nohoemood)** or via email at **basicconnectiontome@gmail.com.**
 
