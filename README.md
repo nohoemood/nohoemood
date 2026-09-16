@@ -6,7 +6,7 @@ My core tech stack includes **Swift**, **SwiftUI**, **UIKit** + **CoreAnimation*
 
 My technical focus includes:
 * **Networking:** JSON/XML, REST APIs, and URLSession.
-* **Multithreading:** GCD, async/await, structured concurrency (Task/TaskGroup, Actors, @MainActor, Sendable), ensuring thread safety and preventing race conditions.
+* **Multithreading:** GCD, async/await, structured concurrency (Task/TaskGroup, Actors, Sendable), ensuring thread safety and preventing race conditions.
 * **Architecture:** MVC, MVP, MVVM, and VIPER, while adhering to SOLID principles.
 
 My go-to tools for development and design are **Xcode**, **Postman**/**RapidAPI**, and **Figma**. 
