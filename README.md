@@ -4,7 +4,10 @@ I’m **Peter Martuanov**, an iOS app developer and UI/UX designer.
 
 My core tech stack includes **Swift**, **SwiftUI**, **UIKit** + **CoreAnimation**, **Foundation** and **Combine**
 
-My technical focus covers **networking**(JSON/XML, REST API, URLSession), **multithreading**(GCD, async/await, structured concurrency, Task/TaskGroup, Actors, @MainActor, Sendable, and preventing race conditions), and structuring applications using MVC, MVP, MVVM and VIPER **architectures** while adhering to SOLID principles.
+My technical focus includes:
+* **Networking:** JSON/XML, REST APIs, and URLSession.
+* **Multithreading:** GCD, async/await, structured concurrency (Task/TaskGroup, Actors, @MainActor, Sendable), ensuring thread safety and preventing race conditions.
+* **Architecture:** MVC, MVP, MVVM, and VIPER, while adhering to SOLID principles.
 
 My go-to tools for development and design are **Xcode**, **Postman**/**RapidAPI**, and **Figma**. 
 
