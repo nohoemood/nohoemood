@@ -21,4 +21,4 @@ I'm **Peter Martuanov** iOS Developer & UI/UX designer
 ## Get in touch
 
 * **Telegram:** **[Link](https://t.me/nohoemood)**
-* **Gmail:** basicconnectiontome@gmail.com
+* **Gmail:** **basicconnectiontome@gmail.com**
