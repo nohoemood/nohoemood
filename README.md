@@ -1,12 +1,24 @@
-I’m **Peter Martuanov**, an iOS app developer and UI/UX designer.
+I'm **Peter Martuanov** iOS Developer & UI/UX designer
 
-My core tech stack includes **Swift**, **SwiftUI**, **UIKit** + **CoreAnimation**, **Foundation** and **Combine**
+📍 Moscow, Russia
 
-My technical focus includes:
-* **Networking:** JSON/XML, REST API, and URLSession.
-* **Multithreading:** GCD, async/await, structured concurrency (Task/TaskGroup, Actors, Sendable), ensuring thread safety and preventing race conditions.
-* **Architecture:** MVC, MVP, MVVM, and VIPER, while adhering to SOLID principles.
+🛠 **Tech Stack**
 
-My go-to tools for development and design are **Xcode**, **Postman**/**RapidAPI**, and **Figma**. 
+* **Languages:** Swift, Objective-C
+* **UI:** SwiftUI, UIKit + CoreAnimation, Figma (Color systems, design tokens)
+* **Concurrency:** GCD, async/await, Swift Concurrency, Combine
+* **Architecture:** MVC, MVP, MVVM (+C), VIPER, Coordinator, SOLID
+* **Networking:** REST API, JSON/XML, URLSession
+* **Go-to tools** Xcode, Postman**/RapidAPI, Figma
 
-If you want to reach out or collaborate, you can text me on **[Telegram](https://t.me/nohoemood)** or via email at **basicconnectiontome@gmail.com.**
+🎯 **What I care about**
+
+* Clean, maintainable architectures
+* Performance and memory efficiency
+* Testability and code quality
+* Well-structured, readable codebases
+
+📬 **Get in touch**
+
+* **[Telegram](https://t.me/nohoemood)**
+* **[GMail]basicconnectiontome@gmail.com.**
