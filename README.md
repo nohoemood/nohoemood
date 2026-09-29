@@ -4,7 +4,7 @@ I'm **Peter Martuanov** iOS Developer & UI/UX designer
 
 ## Tech Stack
 
-* **Languages:** Swift, Objective-C
+* **Languages:** Swift, Objective-C, C++
 * **UI:** SwiftUI, UIKit + CoreAnimation, Figma (Color systems, design tokens)
 * **Concurrency:** GCD, async/await, Swift Concurrency, Combine
 * **Architecture:** MVC, MVP, MVVM (+C), VIPER, Coordinator, SOLID
