@@ -6,7 +6,7 @@ I'm **Peter Martuanov** iOS Developer & UI/UX designer
 
 * **Languages:** Swift, Objective-C, C++
 * **UI:** SwiftUI, UIKit + CoreAnimation, Figma (Color systems, design tokens)
-* **Concurrency:** GCD, async/await, Swift Concurrency, Combine
+* **Concurrency:** GCD, Swift/Modern Concurrency, async/await, Combine
 * **Architecture:** MVC, MVP, MVVM (+C), VIPER, Coordinator, SOLID
 * **Networking:** REST API, JSON/XML, URLSession
 * **Go-to tools** Xcode, Postman**/RapidAPI, Figma
