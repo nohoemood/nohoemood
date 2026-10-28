@@ -1,4 +1,4 @@
-I'm **Peter Martuanov** iOS Developer & UI/UX designer
+I'm **Peter Martuanov** iOS Software engineer & UI/UX designer
 
 📍🇷🇺 Moscow, Russia
 
