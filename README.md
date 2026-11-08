@@ -1,6 +1,6 @@
 I'm **Peter Martuanov** iOS Software engineer & UI/UX designer
 
-📍 Russia 🇷🇺
+📍🇷🇺 Russia 
 
 ## Tech Stack
 
