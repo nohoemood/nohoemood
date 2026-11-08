@@ -7,7 +7,7 @@ I'm **Peter Martuanov** iOS Software engineer & UI/UX designer
 * **Languages:** Swift, Objective-C
 * **UI:** SwiftUI, UIKit + CoreAnimation
 * **Multithreading:** GCD, OperationQueue, Swift/Modern Concurrency, async/await, Combine
-* **Architecture:** MVC, MVP, MVVM (+C), VIPER, Coordinator, SOLID
+* **Architecture:** MVC, MVVM (+C), VIPER, Clean Architecture, SOLID
 * **Networking:** REST API, JSON/XML, URLSession
 * **Go-to tools** Xcode, Postman/RapidAPI, Figma
 
