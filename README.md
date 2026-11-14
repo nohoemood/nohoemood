@@ -9,7 +9,6 @@ I'm **Peter Martuanov** iOS Software engineer & UI/UX designer
 * **Multithreading:** GCD, OperationQueue, Swift/Modern Concurrency, async/await, Combine
 * **Architecture:** MVC, MVVM (+C/R), VIPER, Clean Architecture, SOLID
 * **Networking:** REST API, JSON/XML, URLSession
-* **Go-to tools** Xcode, Postman/RapidAPI, Figma
 
 ## What I care about
 
