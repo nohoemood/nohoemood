@@ -8,7 +8,7 @@ I'm **Peter Martuanov** iOS Software engineer & UI/UX designer
 * **UI:** SwiftUI, UIKit + CoreAnimation
 * **Multithreading:** GCD, Swift/Modern Concurrency, async/await, Combine
 * **Architecture:** MVC, MVVM (+C/R), VIPER, Clean Architecture, SOLID, DRY
-* **Networking:** REST API, JSON/XML, URLSession
+* **iOS APIs:** CoreBluetooth, WidgetKit, CoreData, Keychain, APNs, URLSession
 
 ## What I care about
 
